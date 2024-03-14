@@ -121,9 +121,6 @@ def verificarHijo (hijo,pesos):
   return sumaPesos
 
 
-
-
-
 #### Parametros #####
 x=4  #numero de variables de decision - Elementos diferentes: x
 n=4  #numero de individuos en la poblacion - cromosomas: n
